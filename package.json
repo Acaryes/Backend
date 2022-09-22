@@ -1,0 +1,23 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coder.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+     "dev": "nodemon src/index.js --ignore /*.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acaryes/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acaryes/Backend/issues"
+  },
+  "homepage": "https://github.com/Acaryes/Backend#readme"
+}
